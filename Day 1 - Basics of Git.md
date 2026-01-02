@@ -3,4 +3,4 @@ Learning Git Fundamentals.
 
 This change was made on a feature branch.
 
-Master change: added a note on the main branch.
+Feature change: added a note on the feature branch.
