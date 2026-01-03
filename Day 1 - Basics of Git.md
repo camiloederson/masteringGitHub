@@ -6,4 +6,3 @@ This change was made on a feature branch.
 Master change: note on master.
 
 Feature change: note on feature branch.
-
